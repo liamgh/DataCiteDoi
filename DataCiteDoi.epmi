@@ -9,17 +9,17 @@
           <datasetid>document</datasetid>
           <filename>epm/DataCiteDoi/cfg/cfg.d/z_datacitedoi.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>670a102e25b0b7636091ccf15d200847</hash>
+          <hash>e7c2e49f5d80acfe7d34bad672208970</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5046</filesize>
+          <filesize>5113</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>cfg.d/z_datacite_mapping.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4f2807b6c4cd8fba51cada676ebf9278</hash>
+          <hash>6df9fd044dd42f4b41af08ece324dfe3</hash>
           <hash_type>MD5</hash_type>
-          <filesize>8691</filesize>
+          <filesize>9185</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -41,17 +41,17 @@
           <datasetid>document</datasetid>
           <filename>plugins/EPrints/Plugin/Export/DataCiteXML.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>696d1ecb13af35cdf6cba01198219b30</hash>
+          <hash>f814129d123087339f9f796fecc1fc8a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2806</filesize>
+          <filesize>3410</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>plugins/EPrints/Plugin/Screen/EPrint/Staff/CoinDOI.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>0ceae1dd50779c660b2e2a6bb4e4ff27</hash>
+          <hash>72535209df63d6060cac130b7dcc957e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2237</filesize>
+          <filesize>2219</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>

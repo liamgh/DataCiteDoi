@@ -18,13 +18,6 @@ $c->{datacite_mapping_type} = sub {
     return undef;
 };
 
-$c->{datacite_mapping_data_type} = sub {
-
-    my($xml, $dataobj, $repo, $value) = @_;
-
-    return $xml->create_data_element("resourceType", $value, resourceTypeGeneral=>$value);
-};
-
 $c->{datacite_mapping_creators} = sub {
 
     my($xml, $dataobj, $repo, $value) = @_;
